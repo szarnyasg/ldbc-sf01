@@ -1,8 +1,10 @@
 # LDBC SF0.1 data set
 
+Neo4j-ready CSV files for the [LDBC SNB](http://ldbcouncil.org/developer/snb), produced by its [DATAGEN](https://github.com/ldbc/ldbc_snb_datagen) component.
+
 To load the data set, set the environment variables appropriately.
 
-```
+```console
 export NEO4J_HOME=<todo>
 export NEO4J_DB_DIR=<todo>
 
